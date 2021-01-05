@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# Build Pagination component from scratch in React JS
+
+This repository contains code for pagination component in reactjs.
+
+If you want to learn how to create it please follow below tutorial:
+https://youtu.be/6DtBw3PaeHs
+
+Images:
+
+![Pagination Component](https://raw.githubusercontent.com/codebucks27/react-pagination-component/main/screenshot-localhost_3000-2021.01.05-12_01_43.png)
+
+![Pagination in React](https://raw.githubusercontent.com/codebucks27/react-pagination-component/main/screenshot-localhost_3000-2021.01.05-12_02_22.png)     
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
